@@ -1,8 +1,13 @@
-![logo](logo.jpg)
+# 凛冬王昭君的Book
 
-# sparkzxl-component学习教程
+> 关于博主
 
-> 解放繁琐学习步骤的spring boot plus，适用于企业级的脚手架，一分钟集成分布式，便于快速交付
+``仲秋廿八``，JAVA开发工程师，目前从事与一家IT互联网公司，主要负责公司核心业务后端开发工作。
+
+> 关于博客
+ 
+专注于Java基础，分布式技术以及个人的简介，框架学习的个人博客分享，系统的分享学习分布式框架，少走弯路。
+
 
 [GitHub](https://github.com/sparkzxl/sparkzxl-component)
-[开始](../README.md)
+[快速开始](../README.md)
