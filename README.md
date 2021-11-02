@@ -7,7 +7,7 @@
 <a href="https://github.com/sparkzxl/sparkzxl-auth"><img src="https://img.shields.io/badge/分布式认证-sparkzxl--auth-success" alt="分布式认证"></a>
 </p>
 
-[更新日志](forward/CHANGELOG.md)
+[更新日志](docs/forward/CHANGELOG.md)
 
 ## 简介
 
@@ -62,55 +62,55 @@
 
 ## 组件框架搭建
 
-- [框架搭建手册之maven私库nexus实战](forward/framework/框架搭建手册之maven私库nexus实战.md)
-- [框架搭建手册之idea搭建代码环境](forward/framework/框架搭建手册之idea搭建代码环境.md)
+- [框架搭建手册之maven私库nexus实战](docs/forward/framework/框架搭建手册之maven私库nexus实战.md)
+- [框架搭建手册之idea搭建代码环境](docs/forward/framework/框架搭建手册之idea搭建代码环境.md)
 
 ## 分布式架构篇
 
-- [Nacos注册&配置中心搭建](forward/distributed/分布式架构之Nacos注册&配置中心搭建.md)
-- [Spring Cloud Alibaba 注册中心 Nacos 入门](forward/distributed/分布式架构之SpringCloudAlibaba注册中心Nacos入门.md)
-- [Spring Cloud Alibaba 配置中心 Nacos 入门](forward/distributed/分布式架构之SpringCloudAlibaba配置中心Nacos入门.md)
-- [Spring Cloud openfeign 服务调用](forward/222)
-- [Spring Cloud Openfeign 异常信息传递](forward/distributed/SpringCloudOpenfeign异常信息传递.md)
-- [Spring Cloud Ribbon 服务负载均衡](forward/222)
-- [Spring Cloud hystrix 服务容错保护](forward/222)
-- [Spring Cloud Gateway API网关服务](forward/222)
-- [Spring Boot Admin 微服务应用监控](forward/222)
-- [Spring Cloud Security 授权认证](forward/222)
-- [Spring Cloud Security：Oauth2使用入门](forward/222)
-- [Spring Cloud Alibaba Sentinel实现熔断与限流](forward/222)
-- [Spring Cloud Alibaba Seata 分布式事务问题](forward/222)
-- [Spring-cloud-gateway-oauth2 实现统一认证和鉴权](forward/222)
-- [Spring Cloud Skywalking链路追踪](forward/222)
-- [Spring Cloud 微服务聚合swagger文档](forward/222)
-- [我用AmazonS3解决了众多云厂商oss的痛点](forward/distributed/我用AmazonS3解决了众多云厂商oss的痛点.md)
-- [ELK+Filebeat+Kafka分布式日志管理平台搭建](forward/distributed/分布式架构之ELK+Filebeat+Kafka分布式日志管理平台搭建.md)
-- [高吞吐量的分布式消息中间件kafka初体验](forward/222.md)
+- [Nacos注册&配置中心搭建](docs/forward/distributed/分布式架构之Nacos注册&配置中心搭建.md)
+- [Spring Cloud Alibaba 注册中心 Nacos 入门](docs/forward/distributed/分布式架构之SpringCloudAlibaba注册中心Nacos入门.md)
+- [Spring Cloud Alibaba 配置中心 Nacos 入门](docs/forward/distributed/分布式架构之SpringCloudAlibaba配置中心Nacos入门.md)
+- [Spring Cloud openfeign 服务调用](docs/forward/222)
+- [Spring Cloud Openfeign 异常信息传递](docs/forward/distributed/SpringCloudOpenfeign异常信息传递.md)
+- [Spring Cloud Ribbon 服务负载均衡](docs/forward/222)
+- [Spring Cloud hystrix 服务容错保护](docs/forward/222)
+- [Spring Cloud Gateway API网关服务](docs/forward/222)
+- [Spring Boot Admin 微服务应用监控](docs/forward/222)
+- [Spring Cloud Security 授权认证](docs/forward/222)
+- [Spring Cloud Security：Oauth2使用入门](docs/forward/222)
+- [Spring Cloud Alibaba Sentinel实现熔断与限流](docs/forward/222)
+- [Spring Cloud Alibaba Seata 分布式事务问题](docs/forward/222)
+- [Spring-cloud-gateway-oauth2 实现统一认证和鉴权](docs/forward/222)
+- [Spring Cloud Skywalking链路追踪](docs/forward/222)
+- [Spring Cloud 微服务聚合swagger文档](docs/forward/222)
+- [我用AmazonS3解决了众多云厂商oss的痛点](docs/forward/distributed/我用AmazonS3解决了众多云厂商oss的痛点.md)
+- [ELK+Filebeat+Kafka分布式日志管理平台搭建](docs/forward/distributed/分布式架构之ELK+Filebeat+Kafka分布式日志管理平台搭建.md)
+- [高吞吐量的分布式消息中间件kafka初体验](docs/forward/222.md)
 
 ## 应用部署实践
 
-- [Docker环境部署安装](forward/deploy/Docker环境部署安装.md)
-- [Jenkins+Docker+Gitlab+Harbor服务器部署](forward/deploy/Jenkins+Docker+Gitlab+Harbor服务器部署.md)
-- [Jenkins全自动化部署SpringBoot项目](forward/deploy/Jenkins全自动化部署SpringBoot项目.md)
-- [Jenkins打包并远程部署NodeJS应用](forward/deploy/Jenkins打包并远程部署NodeJS应用.md)
-- [Jenkins实战之流水线](forward/deploy/Jenkins实战之流水线.md)
-- [Jenkins实战之流水线语法详解](forward/deploy/Jenkins实战之流水线语法详解.md)
-- [Jenkins实战之流水线应用部署](forward/deploy/Jenkins实战之流水线应用部署.md)
-- [链路追踪实战之SkyWalking环境搭建](forward/distributed/链路追踪实战之SkyWalking环境搭建.md)
-- [链路追踪实战之JDK镜像制作](forward/distributed/链路追踪实战之JDK镜像制作.md)
+- [Docker环境部署安装](docs/forward/deploy/Docker环境部署安装.md)
+- [Jenkins+Docker+Gitlab+Harbor服务器部署](docs/forward/deploy/Jenkins+Docker+Gitlab+Harbor服务器部署.md)
+- [Jenkins全自动化部署SpringBoot项目](docs/forward/deploy/Jenkins全自动化部署SpringBoot项目.md)
+- [Jenkins打包并远程部署NodeJS应用](docs/forward/deploy/Jenkins打包并远程部署NodeJS应用.md)
+- [Jenkins实战之流水线](docs/forward/deploy/Jenkins实战之流水线.md)
+- [Jenkins实战之流水线语法详解](docs/forward/deploy/Jenkins实战之流水线语法详解.md)
+- [Jenkins实战之流水线应用部署](docs/forward/deploy/Jenkins实战之流水线应用部署.md)
+- [链路追踪实战之SkyWalking环境搭建](docs/forward/distributed/链路追踪实战之SkyWalking环境搭建.md)
+- [链路追踪实战之JDK镜像制作](docs/forward/distributed/链路追踪实战之JDK镜像制作.md)
 
 ## 组件功能介绍
 
-- [sparkzxl-boot-starter组件](forward/component/sparkzxl-boot.md)
-- [sparkzxl-cache-starter组件](forward/component/sparkzxl-cache.md)
-- [sparkzxl-core组件](forward/component/sparkzxl-core.md)
-- [sparkzxl-database-starter组件](forward/component/sparkzxl-database.md)
-- [sparkzxl-user-starter组件](forward/component/sparkzxl-user.md)
-- [sparkzxl-web-starter组件](forward/component/sparkzxl-web.md)
+- [sparkzxl-boot-starter组件](docs/forward/component/sparkzxl-boot.md)
+- [sparkzxl-cache-starter组件](docs/forward/component/sparkzxl-cache.md)
+- [sparkzxl-core组件](docs/forward/component/sparkzxl-core.md)
+- [sparkzxl-database-starter组件](docs/forward/component/sparkzxl-database.md)
+- [sparkzxl-user-starter组件](docs/forward/component/sparkzxl-user.md)
+- [sparkzxl-web-starter组件](docs/forward/component/sparkzxl-web.md)
 
 ## 文档更新手册
 
-- [文档更新手册](forward/文档更新手册.md)
+- [文档更新手册](docs/forward/文档更新手册.md)
 
 # 公众号
 
