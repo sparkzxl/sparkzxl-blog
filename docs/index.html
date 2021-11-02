@@ -7,7 +7,7 @@
     <meta content="Description" name="description">
     <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
           name="viewport">
-    <link href="logo.png" rel="icon">
+    <link href="logo.jpg" rel="icon">
     <link href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" rel="stylesheet">
 </head>
 <body>
@@ -45,6 +45,12 @@
             buttonText: '复制到剪切板',
             errorText: '错误',
             successText: '复制成功'
+        },
+        pagination: {
+            previousText: '上一章节',
+            nextText: '下一章节',
+            crossChapter: true,
+            crossChapterText: true,
         },
         plugins: [
             function (hook) {
@@ -84,5 +90,6 @@
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-java.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-scss.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-yaml.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](logo.jpg)
 
 # sparkzxl-component学习教程
 
